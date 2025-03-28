@@ -105,7 +105,7 @@ function App() {
 
           <p style={stylesTimeLine.message}>
             {
-              "Thats when we met, when we added each other for the first time. Whcih felt so amazing and was so magical. You have helped me so much. YOu have helped me out of my mental health issues and safed and change my life"
+              "Thats when we have became boyfriend and girlfriend. I have been in love with you since day one. Since I met you. I will forever love you. You have helped me so much. YOu have helped me out of my mental health issues and safed and change my life"
             }
           </p>
         </div>
